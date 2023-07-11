@@ -1,0 +1,10 @@
+Package: themeFoil
+Type: Package
+Title: A theme package for 'ggplot2'
+Version: 0.1.0
+Author: Tin SKoric
+Maintainer: Tin skoric <yourself@somewhere.net>
+Description: A theme package for 'ggplot2.'
+License: use_mit_license()
+Encoding: UTF-8
+LazyData: true
